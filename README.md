@@ -1,1 +1,1 @@
-# dns-nativecat
+# nativecat-adblock
